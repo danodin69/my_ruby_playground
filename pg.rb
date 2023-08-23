@@ -11,6 +11,5 @@ require_relative 'lib/alt_money_generator'
 require_relative 'lib/marriage_contractor'
 require_relative 'lib/simple_math'
 
-
-
-
+generator = MarriageContractGenerator.new
+generator.start

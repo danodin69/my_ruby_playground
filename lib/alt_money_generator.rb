@@ -71,5 +71,4 @@ class MoneyGenerator
   end
   
   generator = MoneyGenerator.new
-  generator.start
   

@@ -37,5 +37,4 @@ class MoneyGenerator
   
   initial_balance = 3400
   generator = MoneyGenerator.new(initial_balance)
-  generator.start
   
