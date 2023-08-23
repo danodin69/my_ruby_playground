@@ -1,3 +1,13 @@
+=begin
+ALTERNATE MONEY GENERATOR
+
+Here i learn about begin and rescue which is like try and catch in dart or python
+
+It is an upgrade on money_generator as this one allows users to input money
+
+=end
+
+
 class MoneyGenerator
 
     def initialize

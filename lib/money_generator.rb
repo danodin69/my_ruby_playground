@@ -1,4 +1,4 @@
-# #=== MONEY GENERATOR ===
+#=== MONEY GENERATOR ===
 
 @user_money = 3400
 
