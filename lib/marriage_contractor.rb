@@ -14,7 +14,7 @@ class MarriageContractGenerator
       puts "\nMARRIAGE CONTRACTOR |Earth-2032|\n\n"
   
       print "Enter Name Of Husband _ "
-      husband = gets.chomp!
+      husband = gets.chomp
       puts " _"
   
       print "Enter Name Of Wife _ "
