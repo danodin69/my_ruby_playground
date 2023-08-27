@@ -70,6 +70,7 @@ def playGroundMainMenu
     when user_input = "d"
         puts "((((|/\|\/|))))"
         playGroundProject4
+        
     when user_input = "e"
         puts"Loading Curious : A detective terminal game"
         puts "((((|/\|\/|))))"
